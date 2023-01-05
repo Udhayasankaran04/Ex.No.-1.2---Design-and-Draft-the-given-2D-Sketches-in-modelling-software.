@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ ![EDM Ex-1 2 v2](https://user-images.githubusercontent.com/119393933/210687698-f5b0255a-56f0-4b32-b584-817455004ce5.jpg)
+
  
  
  ## RESULT
